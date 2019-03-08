@@ -155,7 +155,6 @@ $string['newgrouping'] = 'New grouping';
 $string['newpicture'] = 'New picture';
 $string['newpicture_help'] = 'Select an image in JPG or PNG format. The image will be cropped to a square and resized to 100x100 pixels.';
 $string['noallocation'] = 'No allocation';
-$string['nogrouping'] = 'No grouping';
 $string['nogroup'] = 'No group';
 $string['nogrouping'] = 'No grouping';
 $string['nogroups'] = 'There are no groups set up in this course yet';

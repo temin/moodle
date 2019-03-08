@@ -334,7 +334,6 @@ $string['markingworkflowstatereleased'] = 'Released';
 $string['maxattempts'] = 'Maximum attempts';
 $string['maxattempts_help'] = 'The maximum number of submission attempts that can be made by a student. After this number has been reached, the submission can no longer be reopened.';
 $string['maxgrade'] = 'Maximum grade';
-$string['maxgrade'] = 'Maximum Grade';
 $string['maxperpage'] = 'Maximum assignments per page';
 $string['maxperpage_help'] = 'The maximum number of assignments a grader can show in the assignment grading page. Useful to prevent timeouts on courses with very large enrolments.';
 $string['messageprovider:assign_notification'] = 'Assignment notifications';

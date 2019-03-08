@@ -103,7 +103,6 @@ $string['messagedrawerviewgroupinfo'] = 'Group details for {$a}';
 $string['messagedrawerviewoverview'] = 'Messages overview';
 $string['messagedrawerviewsearch'] = 'Messages search results for {$a}';
 $string['messagedrawerviewsettings'] = 'Message settings';
-$string['messagepreferences'] = 'Message preferences';
 $string['messages'] = 'Messages';
 $string['messagesselected:'] = 'Messages selected:';
 $string['messagingdatahasnotbeenmigrated'] = 'Your messages are temporarily unavailable due to upgrades in the messaging infrastructure. Please wait for them to be migrated.';
@@ -255,8 +254,6 @@ $string['yourcontactrequestpending'] = 'Your contact request is pending with {$a
 $string['eventmessagecontactblocked'] = 'Message contact blocked';
 $string['eventmessagecontactunblocked'] = 'Message contact unblocked';
 $string['messagingdisabled'] = 'Messaging is disabled on this site, emails will be sent instead';
-$string['userisblockingyou'] = 'This user has blocked you from sending messages to them.';
-$string['userisblockingyounoncontact'] = '{$a} only accepts messages from their contacts.';
 
 // Deprecated since Moodle 3.7.
 $string['nomessages'] = 'No messages';

@@ -843,7 +843,6 @@ $string['verbosescales'] = 'Verbose scales';
 $string['verbosescales_help'] = 'A verbose scale uses words rather than numbers. Set to \'Yes\' if both numerical and verbose scales are to be imported. Set to \'No\' if only numerical scales are to be imported.';
 $string['viewbygroup'] = 'Group';
 $string['viewgrades'] = 'View grades';
-$string['weight'] = 'weight';
 $string['weight_help'] = 'A value used to determine the relative value of multiple grade items in a category or course.';
 $string['weightcourse'] = 'Use weighted grades for course';
 $string['weightedascending'] = 'Sort by weighted percent ascending';
